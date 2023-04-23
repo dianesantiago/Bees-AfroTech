@@ -1,0 +1,72 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px;
+  width: 900px;
+
+  
+
+  }
+  
+  
+#secao00 {
+  background: #7196db;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 13px;
+  color: #fff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+  }
+
+#secao02 {
+  background: #7196db;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 13px;
+  color: #fff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 18px;
+}
+
+#secao03 {
+  background: #7196db;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 13px;
+  color: #fff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+}
+
+#secao04 {
+  background: #7196db;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 13px;
+  color: #fff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+}
+
+#secao05 {
+  background: #7196db;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 13px;
+  color: #fff;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+}
+
+nav{
+  display: inline-block;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#formulario{
+  display: inline-block;
+text-align: justify;
+}
